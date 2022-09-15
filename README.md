@@ -1,1 +1,1 @@
-# Fu-ball-Tippspiel
+# Fussball-Tippspiel
